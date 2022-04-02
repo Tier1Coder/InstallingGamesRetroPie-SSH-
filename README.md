@@ -9,7 +9,7 @@ You can see the photos for more details.
 2) Download FileZilla -> https://filezilla-project.org/
 3) Open it.
 4) Open Site Manager (left top)
-5) Put the Host adres and username. Then connect. If your Raspberry Pi has a password you have to type it down. Once that, you will be connected.
+5) Put the Host adress and username. Then connect. If your Raspberry Pi has a password you have to type it down. Once that, you will be connected.
 
 You can get the "Host" adress after pointing the Wi-Fi Icon on your RPI's desktop.
 
